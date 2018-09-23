@@ -1,7 +1,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     public class Bird
     {
@@ -18,7 +18,7 @@ namespace Treehouse.CodeChallenges
 }
 using System.Collections.Generic;
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     public static class BirdRepository
     {
