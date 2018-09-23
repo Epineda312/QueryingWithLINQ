@@ -7,7 +7,7 @@ numbers in the _numbers field that are greater than 5.  */
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     public class NumberAnalysis
     {
@@ -32,7 +32,7 @@ Default code
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     public class NumberAnalysis
     {
