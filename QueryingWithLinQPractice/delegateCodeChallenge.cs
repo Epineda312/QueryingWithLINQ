@@ -7,7 +7,7 @@ takes an integer parameter named number. */
 
 using System;
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     class Program
     {
@@ -30,7 +30,7 @@ Create a public static method named Add that matches the signature of the
 MathOperation delegate. Inside the method, return the result of number + number.
  */
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     class Program
     {
@@ -52,7 +52,7 @@ Challenge Task 3 of 5
 Instantiate a new MathOperation named add and point it to the Add method.
  */
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     class Program
     {
@@ -76,7 +76,7 @@ Create another public static method named Square that matches the
  signature of the MathOperation delegate. Inside the method, return 
  the result of number * number.
  */
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     class Program
     {
@@ -103,7 +103,7 @@ Instantiate a new MathOperation named square and point it
 to the Square method.
  */
 
-namespace Treehouse.CodeChallenges
+namespace CodeChallenges
 {
     class Program
     {
